@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RebrainRedis07.Task1.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\xxdim\\source"
+    }
+  }
+}
